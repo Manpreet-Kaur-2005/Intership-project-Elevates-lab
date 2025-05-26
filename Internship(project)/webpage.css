@@ -1,0 +1,170 @@
+
+.nav{
+   background-color:rgb(253, 247, 238);
+   height: 100px;
+
+}
+p{
+    display: inline-flex;
+    float: right;
+    padding: 5px;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.shortnav{
+background-color: rgba(0, 0.1, 0, 0.1);
+height: 100px;
+width: 1500px;
+margin-left: 200px;
+border-radius: 60px;
+margin-top: 15px;
+}
+input{
+    border-radius: 30px;
+    margin-top: 20px;
+    height: 45px;
+    width: 400px;
+    text-align: left;
+    font-size: 25px;
+    border-color: transparent;
+    background-color:rgb(240, 239, 239);
+    border-color: rgb(136, 163, 252);
+
+}
+#location{
+    margin-left: 50px;
+font-size: 30px;
+}
+#line1{
+    font-size: 60px;
+    margin-right: 990px;
+    margin-top: 8px;
+    color: white;
+    font-weight: bolder;
+    }
+#calender{
+    font-size: 25px;
+margin-left: 20px;
+}
+#users{
+    font-size: 25px;
+margin-left: 20px;
+}
+#search{
+    padding: 10px;
+    font-size: 25px;
+}
+button{
+    border-radius: 60px;
+    background-color: rgb(63, 89, 240);
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.button :hover{
+    color:rgb(112, 201, 236)
+}
+.body{
+    margin-top: 10px;
+}
+#background{
+    border-radius: 50px;
+    margin-left: 20px;
+}
+ .box1{
+     border: 4px solid black;
+    height: 700px;
+    width: 450px;
+    margin-left: 20px;
+    background-color:rgb(175, 174, 174);
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black;
+}
+#img1{
+    margin-left: 50px;
+}
+
+
+.box2{
+   
+    border: 4px solid black;
+    height: 700px;
+    width: 450px;
+    margin-left: 20px;
+    background-color:rgb(175, 174, 174);
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black
+;}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+.box3{
+   
+    border: 4px solid black;
+    height: 700px;
+    width: 450px;
+    margin-left: 20px;
+    background-color:rgb(175, 174, 174);
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black;
+;}
+.box4{
+   
+    border: 4px solid black;
+    height: 700px;
+    width: 450px;
+    margin-left: 20px;
+    background-color:rgb(175, 174, 174);
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black;
+;}
+button:hover{
+    background-color: rgb(130, 149, 236);
+}
+h1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Contact:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#Destination:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+#icon:hover{
+    cursor: pointer;
+}
+#search:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#footer{
+    background-color: black;
+    
+    height: 200px;
+    width: 1920px;
+    color: white;
+}
+.symbol{
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    padding-top: 20px;
+}
+#email:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
